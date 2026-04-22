@@ -60,6 +60,3 @@ This project demonstrates how graph algorithms like Dijkstra’s can be applied 
 
 ## Note
 This project is developed for educational purposes to demonstrate algorithmic concepts in an interactive way.
-
-## Author
-Prajakta
